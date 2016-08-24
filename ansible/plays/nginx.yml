@@ -5,4 +5,4 @@
   gather_facts: yes
 
   roles:
-    - nginx-1_9
+    - nginx
